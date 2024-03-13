@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\OutguessWilsons\bin\Debug\net6.0\OutguessWilsons.exe
+C:\Users\MCA\source\repos\OutguessWilsons\bin\Debug\net6.0\OutguessWilsons.deps.json
+C:\Users\MCA\source\repos\OutguessWilsons\bin\Debug\net6.0\OutguessWilsons.runtimeconfig.json
+C:\Users\MCA\source\repos\OutguessWilsons\bin\Debug\net6.0\OutguessWilsons.dll
+C:\Users\MCA\source\repos\OutguessWilsons\bin\Debug\net6.0\OutguessWilsons.pdb
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\OutguessWilsons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\OutguessWilsons.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\OutguessWilsons.AssemblyInfo.cs
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\OutguessWilsons.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\OutguessWilsons.dll
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\refint\OutguessWilsons.dll
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\OutguessWilsons.pdb
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\OutguessWilsons.genruntimeconfig.cache
+C:\Users\MCA\source\repos\OutguessWilsons\obj\Debug\net6.0\ref\OutguessWilsons.dll
