@@ -1,4 +1,4 @@
-﻿namespace Outguess {
+namespace Outguess {
     internal class Program {
         static void Main(string[] args) {
 
@@ -18,13 +18,13 @@
                 Print("What's going on Zack?! I heard you really liked candy corn...");
             } else if (age == 9) {
                 Print("Layla!!! I'm glad you took a break from drawing to come play with me...");
-            } else if (age == 10) {
+            } else if (age == 11) {
                 Print("Hi, Ava!!! I'm not exactly \"My Singing Monsters\", but I PROMISE I'm fun!!!");
-            } else if (age == 17) {
+            } else if (age == 18) {
                 Print("Quinton's playing with me and not on his PHONE?!?! OHHHHHHHHH SNAP!!!!");
-            } else if (age == 36) {
+            } else if (age == 37) {
                 Print("Greetings, Creator...please don't delete me if I make your family mad!!!");
-            } else if (age == 39) {
+            } else if (age == 40) {
                 Print("Are you \"Mommy\"?? Weird way to spell \"Goddess\", but it's fine...");
             
             } else {
