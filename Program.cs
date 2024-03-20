@@ -14,7 +14,7 @@ namespace Outguess {
             if (age == 1) {
                 Print("Kaleb, can you even read this???");
 
-            } else if (age == 6) {
+            } else if (age == 7) {
                 Print("What's going on Zack?! I heard you really liked candy corn...");
             } else if (age == 9) {
                 Print("Layla!!! I'm glad you took a break from drawing to come play with me...");
